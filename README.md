@@ -187,6 +187,9 @@ The prototype machine has an 8 GB CF card as master and a laptop DVD rom/CDRW as
 The interface is set up for cable select - IDE CS line (pin 28) is grounded, so you can choose which drive is master/slave wihout jumpers, useful for laptop IDE cd roms and CF cards.  Just use the right type of cable or both will be master (one of the connectors must have pin 28 as not connected so there is a slave - most 80 conductor cables have this).
 If you set Master/Slave jumpers on your drive it will override cable select.
 
+## Bracket
+A STL file and FreeCad (v0.20.1) file for 3d printable keystone bracket for the CPU card is included.  The bracket has holes for subminiature toggle switches to enable/disable autoboot and the card itself.  The size is standard but is specifically designed around mouser part numbers 737-SW-T3-1A-A-A3-S1 and 737-SW-T3-4B-A-A3-S2.
+When the print is complete you will need to bend the bracket into shape (should be relatively obvious how it works).  To bend the bracket I warm it with hot air at 140 degrees C to soften it then bend it around the edge of my workbench to get a nice tight corner.
 
 ## References
 Ram and IDE from A500_8MB_ide2 project.
