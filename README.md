@@ -31,10 +31,16 @@ The SMD2000 project requires a donor Amiga; either an A500, A500+, A2000, or A60
 
 If you intend to use the Kicad files you will need the SMD2000 symbol and footprint libraries.  They are included in the SMD2000 motherboard package.  You will need to edit the path to the libraries in Kicad.
 
+Motherboard: https://github.com/gazzmaniac/SMD2000/ 
+
+2 MB Agnus card: https://github.com/gazzmaniac/SMD2000_Agnus2MB 
+
+1 MB SMD Agnus card: https://github.com/gazzmaniac/Agnus_1MB 
+
+1 MB TTH Agnus card: https://github.com/gazzmaniac/Agnus_1MB_TTH
+
 
 ## Useful Links
-
-
 #### To compile CPLD:
 Quartus II Web Edition v13.0sp1
 https://www.intel.com/content/www/us/en/collections/products/fpga/software/downloads.html?edition=web&platform=windows
