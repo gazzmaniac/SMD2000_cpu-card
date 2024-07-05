@@ -189,7 +189,7 @@ If you set Master/Slave jumpers on your drive it will override cable select.
 
 ## Bracket
 A STL file and FreeCad (v0.20.1) file for 3d printable keystone bracket for the CPU card is included.  The bracket has holes for subminiature toggle switches to enable/disable autoboot and the card itself.  The size is standard but is specifically designed around mouser part numbers 737-SW-T3-1A-A-A3-S1 and 737-SW-T3-4B-A-A3-S2.
-When the print is complete you will need to bend the bracket into shape (should be relatively obvious how it works).  To bend the bracket I warm it with hot air at 140 degrees C to soften it then bend it around the edge of my workbench to get a nice tight corner.
+When the print is complete you will need to bend the bracket into shape (should be relatively obvious how it works).  To bend the bracket I warm it with hot air at 140 degrees C to soften it then bend it around the edge of my workbench to get a nice tight corner.  Use M3 screws, star washer, and nuts to attach to card.
 
 ## References
 Ram and IDE from A500_8MB_ide2 project.
